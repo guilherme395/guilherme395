@@ -1,5 +1,12 @@
-### Hi there 👋
+### Olá, eu sou o Guilherne ✌🏼👩🏻‍💻
+Apaixonado por tecnologia e pela criação de aplicações que facilitam e incrementam o nosso cotidiano.
 
-- 🔭 I’m currently working :HTML , CSS , JAVASCRIPT .
-- 🌱 I’m currently learning :NODE JS .
-- 📫 How to reach me: @dograu_guilherme_63.
+Algumas das tecnologias que gosto de trabalhar:
+
+💻HTML 5
+
+⚛️CSS 3
+
+📱JavaScript
+
+Prazer, esse sou eu.
