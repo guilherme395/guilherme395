@@ -3,10 +3,16 @@ Apaixonado por tecnologia e pela criação de aplicações que facilitam e incre
 
 Algumas das tecnologias que gosto de trabalhar:
 
-💻HTML 5
+HTML 5
 
-⚛️CSS 3
+CSS 3
 
-📱JavaScript
+JavaScript
 
-Prazer, esse sou eu.
+APACHE
+
+PHP
+
+MYSQL
+
+RESUMIDAMENTE EU SOU UM WEB DEVELOPER WAMPP
