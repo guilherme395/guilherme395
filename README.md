@@ -9,8 +9,6 @@ CSS 3
 
 JavaScript
 
-APACHE
-
 PHP
 
 MYSQL
