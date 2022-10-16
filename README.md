@@ -1,8 +1,6 @@
 ### Hi! I am Guilherme.
 
 - 🔭 Today I work as a Full Stack Dev.
-- 🌱 Studying Flutter and NodeJS.
-- 😄 favorite language: PHP.
 
 <div align="center">
   <a href="https://github.com/guilherme395">
