@@ -26,4 +26,4 @@ Always eager to learn and take on new challenges! 💡
 ---
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Lima-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/guilherme-lima/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Lima-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/guilherme-lima-leite/)
